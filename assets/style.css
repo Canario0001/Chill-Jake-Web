@@ -1,0 +1,25 @@
+body {
+    background-image: url("chill_jake.gif");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+  }
+
+button {
+    position: absolute;
+    bottom: 12%;
+    right: 50%;
+}
+.he {
+    color: white;
+    font-size: 230%;
+}
+.piu {
+    color: white;
+    position: absolute;
+    right: 1%;
+    top: 1%;
+}
+#batata {
+    color: black;
+}
